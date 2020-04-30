@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/johnward0212/testProject/_apis/build/status/johnw230873.pipelines-java?branchName=master)](https://dev.azure.com/johnward0212/testProject/_build/latest?definitionId=6&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
